@@ -1,3 +1,4 @@
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=cainba&count_private=false&theme=tokyonight&showicons=true)]()
+# Howdy, I'm Bryce Cain (cainba) 😎
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cainba&langs_count=5&theme=tokyonight)]()
+I've moved my about me to my personal site here:
+[cainb.dev](https://cainb.dev/)
