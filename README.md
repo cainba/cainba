@@ -1,5 +1,6 @@
 # Howdy, I'm Bryce Cain (cainba) 😎
 
+|  My Wakatime stats |
 <!--START_SECTION:waka-->
 
 ```txt
