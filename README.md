@@ -1,4 +1,4 @@
-# Howdy, I'm Bryce Cain (cainba) 😎
+# Howdy, I'm Bryce Cain (cainbryce) 😎
 
 |  My Wakatime stats |
 <!--START_SECTION:waka-->
