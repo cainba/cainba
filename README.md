@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other   47 mins         ████████████████████████░   96.54 %
-Zig     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
