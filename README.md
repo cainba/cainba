@@ -24,30 +24,30 @@ Developer focused on performant runtimes, Wayland tooling, and web infrastructur
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2026 - To: 07 September 2026
+From: 09 August 2026 - To: 08 September 2026
 
-Total Time: 121 hrs 13 mins
+Total Time: 118 hrs 41 mins
 
-TypeScript         37 hrs 23 mins        ███████▓░░░░░░░░░░░░░░░░░   30.84 %
-Markdown           20 hrs 17 mins        ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
-Zig                12 hrs 40 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-Other              10 hrs 54 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-Bash               7 hrs 18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Lua                6 hrs 56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
-JSON               5 hrs 55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-C                  4 hrs 1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
-Python             3 hrs 16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-INI                2 hrs 44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-TOML               1 hr 37 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-TSConfig           1 hr 20 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
-shell script       1 hr 4 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Diff               1 hr 1 min            ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-C++                50 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-jsonc              48 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-JavaScript         30 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+TypeScript         36 hrs 49 mins        ███████▓░░░░░░░░░░░░░░░░░   31.02 %
+Markdown           19 hrs 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+Other              11 hrs 28 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Zig                10 hrs 43 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+Lua                6 hrs 50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+Bash               6 hrs 42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+JSON               5 hrs 36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
+INI                4 hrs 8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+C                  4 hrs                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Python             3 hrs 4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+TOML               1 hr 30 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+TSConfig           1 hr 19 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+shell script       1 hr 13 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Diff               53 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+C++                50 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+jsonc              48 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+JavaScript         30 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 Objective-C        14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 Rust               13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Desktop file       13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Desktop file       13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
